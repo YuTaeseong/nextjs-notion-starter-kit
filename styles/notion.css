@@ -83,6 +83,10 @@
 }
 
 .notion-collection-card-cover {
+  background-color: #FAEFDE;
+}
+
+.notion-collection-card-cover {
   border-bottom: 0 none;
   transition: filter 150ms linear;
   filter: none;
